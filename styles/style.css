@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.carousel-item {
+  width: 100%;
+  height: 750px;
+}
+.carousel-item img {
+  height: 750px;
+  width: 100%;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+section h1 {
+  text-align: center;
+}
+
+.employees {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding: 0 30px 0 0; /* Only right padding*/
+}
